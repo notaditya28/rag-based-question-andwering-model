@@ -1,0 +1,2 @@
+python -m streamlit run app.py
+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
